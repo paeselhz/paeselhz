@@ -15,8 +15,20 @@ Recently I've been migrating to a more MLOps approach to Data Science, helping o
   - :necktie: I'm on [LinkedIn](https://www.linkedin.com/in/lhzpaese/)
   - :bird: Find me on Twitter at [@paeselhz](https://twitter.com/paeselhz)
   - :scroll: Check out my latest [Medium articles ](https://medium.com/@lhzpaese)
+  
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paeselhz&show_icons=true&hide_border=true&theme=dark" alt="Luis Paese's Stats"/>
+</p>
+
+
+
 <!--
 **paeselhz/paeselhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![paeselhz Stats](https://github-readme-stats.vercel.app/api?username=paeselhz&show_icons=true&hide_border=true&theme=dark) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paeselhz&theme=dark)
 
 Here are some ideas to get you started:
 
