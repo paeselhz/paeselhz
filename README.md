@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Luis Henrique Zanandrea Paese, and I'm currently working as a Machine Learning Engineer at [@luizalabs](https://github.com/luizalabs).
+My name is Luis Henrique Zanandrea Paese.
 
 Recently I've been migrating to a more MLOps approach to Data Science, helping others to automate their deploys and integrating it to technologies such as Terraform, Packer, Consul and Vault.
 
